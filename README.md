@@ -3,7 +3,7 @@
 <br>
 <br>
 
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Hadoop, Spark,etc.
 - 🥅 2022 Goals: Learn more about AI and become AI Engineer
 - ⚡ Fun fact: I love learning new technology
 
