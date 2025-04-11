@@ -4,7 +4,7 @@
 <br>
 
 - 🌱 I’m currently learning ReactJS
-- 🥅 2022 Goals: Learn more about ReactJS and become Frontend Developer
+- 🥅 2022 Goals: Learn more about AI and become AI Engineer
 - ⚡ Fun fact: I love learning new technology
 
 <h3 align="left">Connect with me:</h3>
